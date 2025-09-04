@@ -1,0 +1,156 @@
+﻿LB = Leaked Build
+RTM = Release to Manufacturing
+DR = Development Release
+RC = Release Candidate
+format: year/month/day
+
+1- MS-DOS 1.00 - 1981/08/12
+2- MS-DOS 1.1 - may 1982
+3- MS-DOS 1.25 - august 1982
+4- MS-DOS 1.26 - 1982?
+5- Microsoft Interface Manager Demonstration 0.01 - 1983/09/12 A.K.A. Windows 1.0 BYTE demo
+6- Interface Manager 1983-11-01 build - 1983/11/01
+7- Interface Manager 1983-11-10 annoucement build - 1983/11/10
+8- Interface Manager InfoWorld 1983-11-21 build - 1983/11/14
+9- Interface Manager 1983-11-20 build - 1983/11/20
+10- Interface Manager COMDEX Fall build - 1983/11/29
+11- Interface Manager COMDEX Fall press material build - 1983
+12- Interface Manager Personal Computer News 1983-12-01 build - 1983/12/01
+13- Windows Internal build - january 1984
+14- Windows Internal Test Release 1 - january 1984
+15- Windows Internal Test Release 2 - january 1984
+16- Windows Internal Test Release 3 - february 1984
+17- Windows 1.0 1984-02-22 build - 1984/02/22
+18- Windows 1.0 DR1 - 1984/05/29
+19- Windows 1.0 DR2 - june 1984
+20- Windows 1.0 DR3 - july 1984
+21- Windows 1.0 DR4 - 1984/10/31
+22- Windows 1.0 DR5 - 1984/10/31
+23- Windows 1.0 Tandy 2000 build - 1984/11/01
+24- Windows 1.0 Alpha Release - 1985/01/31
+25- Windows 1.0 Science et Vie Micro build - 1985/04/01
+26- Windows 1.0 Beta Release - 1985/05/08
+27- Windows 1.0 Preliminary Version 0.50 - june 1985
+28- Windows 1.0 PC Mag 1985-08-20 build - 1985/06/27
+29- Windows 1.0 1985-06-29 build - 1985/06/29
+30- Windows 1.0 InfoWorld 1985-07-01 build - 1985/07/01
+31- Windows 1.0 Premiere Edition - 1985/07/30
+32- Windows 1.0 Beta Release - 1985/09/09
+33- Windows 1.0 In*a*Vision 1.01 runtime - 1985/09/20
+34- Windows 1.0 Retail Beta - 1985/9/25
+35- Windows 1.0 Retail Beta - 1985/9/30
+36- Windows 1.00.08 - october 1985
+37- Windows 1.0 1985-10-11 build - 1985/10/11
+38- Windows 1.00.09 - 1985/11/04
+39- Windows 1.0 RTM - 1985/11/20
+40- Windows 1.01 RTM - 1985/11/20 (Build date 1985/11/15)
+41- **Windows Beta 1.02.02 - 1986?**
+42- Windows 1.02 1986-01-15 - 1986/01/15
+43- Windows 1.02 - 1986/05/14 (Build date 1986/01/15) OR
+44- Windows 1.03 (HP Vectra OEM) - 1986/01/15
+45- Windows 1.03 (HP 150 OEM) - 1986/01/15
+46- Windows 1.03 (Tulip OEM) - 1986/02/19
+47- Windows 1.03b - 1986/06/30 (Build date 1986/05/24)
+48- Windows 1.03 - 1986/08/21 (Build date 1986/05/22) OR
+49- Windows 1.03a - 1986/08/24
+50- Windows 1.03 (Zenith OEM) - 1986/10/20
+51- Windows 1.03 (Olivetti) - 1986/12/19 (Build date 1986/12/02)
+52- Windows 1.03 (Zenith Z-100 OEM) - 1987?
+53- Windows 2.0 January 1987 Build - 1987/01/27
+54- Windows 1.03a [AT&T OEM] - 1987/01/30
+55- Windows VR1.03 (ATC Apricot ZEN OEM) - 1987/02/24
+56- Windows 1.03 (DEC Rainbow 100 OEM) 1987/04/08
+57- Windows 2.0 InfoWorld Build - 1987/04/06
+58- Windows 1.04 - 1987/04/08 OR
+59- Windows 2.0 April 1987 Build - 1987/04/20
+60- Windows 2.0 InfoWorld Build - 1987/05/11
+61- Windows 2.0 InfoWorld Build - 1987/05/25
+62- Windows 2.0 Alpha 1 - 1987/06/08
+63- Windows 2.0 Alpha 2 - 1987/06/15
+64- Windows 2.0 Beta 1 - 1987/07/01
+65- Windows 2.0 Beta 2 - 1987/08/14
+66- Windows 2.01 for 386 - 1987/09/08
+67- Windows 2.0 Beta 3- 1987/09/14
+68- Windows 2.0 Beta 4- 1987/10/05
+69- Windows 2.03 for 286 - 1987/11/16
+70- Windows 2.03 for 386 - 1987/11/16
+71- Windows 2.0 RTM - 1987/12/09
+72- Windows 2.01 - 1988/05/26 OR
+73- Windows 2.03 - 1988/08/27 OR
+74- Windows 2.10 for 386 - 1988/09/09
+75- Windows 2.10 for 286 - 1988/10/18
+76- Windows 3.0 Build 11 - 1989?
+77- Windows 3.0 Build 12 - january 1989
+78- Windows 3.0 Build 13 - january 1989
+79- Windows 3.0 Build 14 - 1989/02/22
+80- Windows 2.11 for 386 - 1989/03/14
+81- Windows 2.11 for 286 - 1989/06/15
+82- Windows 3.0 Build 30 - 1989?
+83- Windows 3.0 Build 31 - 1989/07/13
+84- Windows 3.0 Build 32 - 1989/07/18
+85- Windows 3.0 Build 33 - 1989/07/27
+86- Windows 3.0 Build 46 - 1989/10/23
+87- Windows 3.0 Build 52 - 1989/12/13
+88- Windows 3.0 InfoWorld Build - 1989/12/14
+89- Windows 3.0 Build 55 - 1990/01/02
+90- Windows 3.0 Build 58 - 1990/01?
+91- Windows 3.0 Build 59 - 1990/02/02
+92- Windows 3.0 Build 63 - 1990/02/23
+93- Windows 3.0 RC2 - 1990/02/23
+94- Windows 3.0 RC6 - 1990/03/07
+95- Windows 3.0 RC12 - 1990/03/22
+96- Windows 3.0 RTM - 1990/05/22 (Build date: 1990/05/01) OR
+97- Windows 3.00 Demonstration Version Working Model Test Drive - 1990/09/07
+98- Windows 3.00a MDK Version 59 - 1990/11/07 
+99- Windows 3.00a - december 1990  (Build date 1990/10/31)
+100- Windows 3.0A - 1991?
+101- Windows 3.0A-H - 1991?
+102- Windows 3.00(A) (IBM PS/55) - 1991?
+103- Windows 3.1 Build 026 - 1991/04/05
+104- Windows NT 3.1 Build 1.0 (April 1991) - 1991/04/05
+105- Windows 3.1 Build 034f - 1991/06/07
+106- Windows 3.00a MDK Version 96 - 1991/06/16
+107- Windows 3.1 Build 043e - 1991/08/27
+108- Windows NT 3.1 Build 1.0.196.1 - 1991/09/17
+109- Windows 3.0a MME - 1991/10/01
+110- Windows NT 3.1 Build 1.0 (October 1991) - 1991/10/01
+111- Windows 3.0 with Multimedia Extensions 1.0 - 1991/10/20
+112- Windows 3.1 Build 057 - 1991/11/17
+113- Windows 3.02 (PC55) - 1991/11/22
+114- Windows 3.1 Build 60 - 1991/12/04
+115- Windows 3.1 Build 061d - 1991/12/17
+116- Windows NT 3.1 Build 1.0.239.1 - 1991/12/21
+117- Windows 3.1 Build 68 - 1992/01/21
+118- Windows 3.1 Build 71 - 1992/01/30
+119- Windows 3.1 Build 101 - 1992/02/06
+120- Windows 3.1 Build 103 (1992-03-02) - 1992/03/02
+121- Hangul Windows 3.01 - 1992/03/09
+122- Windows 3.1 Build 103 (1992-03-10) - 1992/03/10
+123- Windows 3.1 Build 103 (1992-03-11) - 1992/03/11
+124- Microsoft Windows for Pen Computing 1.0 - 1992/03/16
+125- Windows 3.11 Beta 1 - 1992/04/02 A.K.A. Microsoft Windows for Workgroups 3.1
+126- Windows 3.1 RTM - 1992/04/06
+127- Windows for pen computing 1.0a - 1992/04/24
+128- Windows 3.1 Build 018 - 1992/06/18
+129- Windows 3.1 Build 019 - 1992/06/18
+130- Windows NT 3.1 Build 297.1 - 1992/06/28
+131- Windows 3.11 Build 014e - 1992/07/01
+132- Windows codename Chicago Build 07200022 - 1992/07/20
+133- Windows 3.11 Build 024 - 1992/07/27
+134- Windows 3.11 Build 027 - 1992/08/14
+135- Windows NT 3.1 Build 311.1 - 1992/09/04
+136- Windows 3.11 Build 102 - 1992/10/01
+137- Windows NT 3.1 Build 340.1 - 1992/10/12
+138- Windows NT 3.1 Build 347.1 - 1992/11/19
+139- Windows 3.1 Build 141 - 1993/01/05
+140- Windows 3.0B - 1993/01/28
+141- Windows codename Chicago Build 58s - 1993/08/09
+
+Fonts: BetaWiki, BetaArchive, ChatGPT and The Collection Book
+References: 
+https://www.thecollectionbook.info/windows/all
+https://www.betaarchive.com/forum/viewtopic.php?t=38711
+https://www.google.com/search?q=windows+2.0+release+date&sca_esv=4a27859b0637b078&rlz=1C1PRFC_enBR1134BR1134&sxsrf=AE3TifMW5ieDNP8cD1QqERPndPsaPGgx9A%3A1756988301399&ei=jYO5aLeJGNS_5OUPrdvsyQ8&oq=windows+2.0+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHdpbmRvd3MgMi4wICoCCAAyDBAjGIAEGBMYJxiKBTIEECMYJzIKEAAYgAQYFBiHAjIKEAAYgAQYFBiHAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCBAAGIAEGMsBMggQABiABBjLAUjQF1DPC1jKEHABeAGQAQCYAeoDoAGEB6oBCTAuMS4xLjAuMbgBAcgBAPgBAZgCBKACjwjCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHCTEuMS4xLjAuMaAHmx2yBwkwLjEuMS4wLjG4B-8HwgcFNC0zLjHIB4AB&sclient=gws-wiz-serp
+https://betawiki.net/index.php?title=Category:Unleaked_builds&pagefrom=Microsoft+Plus%21+95+build+22#mw-pages
+https://chatgpt.com/?temporary-chat=true
+obs: even though MS-DOS isn't windows, i put it bc it was the base of windows.
