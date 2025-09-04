@@ -1,7 +1,11 @@
-﻿LB = Leaked Build
+LB = Leaked Build
 RTM = Release to Manufacturing
 DR = Development Release
 RC = Release Candidate
+? = not sure of the date
+?? = not sure if actually existed
+• = don't existed but was planned
+•• = not the PC OS
 format: year/month/day
 
 1- MS-DOS 1.00 - 1981/08/12
@@ -100,59 +104,70 @@ format: year/month/day
 94- Windows 3.0 RC6 - 1990/03/07
 95- Windows 3.0 RC12 - 1990/03/22
 96- Windows 3.0 RTM - 1990/05/22 (Build date: 1990/05/01) OR
-97- Windows 3.00 Demonstration Version Working Model Test Drive - 1990/09/07
-98- Windows 3.00a MDK Version 59 - 1990/11/07 
-99- Windows 3.00a - december 1990  (Build date 1990/10/31)
-100- Windows 3.0A - 1991?
-101- Windows 3.0A-H - 1991?
-102- Windows 3.00(A) (IBM PS/55) - 1991?
-103- Windows 3.1 Build 026 - 1991/04/05
-104- Windows NT 3.1 Build 1.0 (April 1991) - 1991/04/05
-105- Windows 3.1 Build 034f - 1991/06/07
-106- Windows 3.00a MDK Version 96 - 1991/06/16
-107- Windows 3.1 Build 043e - 1991/08/27
-108- Windows NT 3.1 Build 1.0.196.1 - 1991/09/17
-109- Windows 3.0a MME - 1991/10/01
-110- Windows NT 3.1 Build 1.0 (October 1991) - 1991/10/01
-111- Windows 3.0 with Multimedia Extensions 1.0 - 1991/10/20
-112- Windows 3.1 Build 057 - 1991/11/17
-113- Windows 3.02 (PC55) - 1991/11/22
-114- Windows 3.1 Build 60 - 1991/12/04
-115- Windows 3.1 Build 061d - 1991/12/17
-116- Windows NT 3.1 Build 1.0.239.1 - 1991/12/21
-117- Windows 3.1 Build 68 - 1992/01/21
-118- Windows 3.1 Build 71 - 1992/01/30
-119- Windows 3.1 Build 101 - 1992/02/06
-120- Windows 3.1 Build 103 (1992-03-02) - 1992/03/02
-121- Hangul Windows 3.01 - 1992/03/09
-122- Windows 3.1 Build 103 (1992-03-10) - 1992/03/10
-123- Windows 3.1 Build 103 (1992-03-11) - 1992/03/11
-124- Microsoft Windows for Pen Computing 1.0 - 1992/03/16
-125- Windows 3.11 Beta 1 - 1992/04/02 A.K.A. Microsoft Windows for Workgroups 3.1
-126- Windows 3.1 RTM - 1992/04/06
-127- Windows for pen computing 1.0a - 1992/04/24
-128- Windows 3.1 Build 018 - 1992/06/18
-129- Windows 3.1 Build 019 - 1992/06/18
-130- Windows NT 3.1 Build 297.1 - 1992/06/28
-131- Windows 3.11 Build 014e - 1992/07/01
-132- Windows codename Chicago Build 07200022 - 1992/07/20
-133- Windows 3.11 Build 024 - 1992/07/27
-134- Windows 3.11 Build 027 - 1992/08/14
-135- Windows NT 3.1 Build 311.1 - 1992/09/04
-136- Windows 3.11 Build 102 - 1992/10/01
-137- Windows NT 3.1 Build 340.1 - 1992/10/12
-138- Windows NT 3.1 Build 347.1 - 1992/11/19
-139- Windows 3.1 Build 141 - 1993/01/05
-140- Windows 3.0B - 1993/01/28
-141- Windows codename Chicago Build 58s - 1993/08/09
+97- Windows 3.1 Build 5 - september 1990
+98- Windows 3.00 Demonstration Version Working Model Test Drive - 1990/09/07
+99- Windows 3.00a MDK Version 59 - 1990/11/07 
+100- Windows 3.00a - december 1990  (Build date 1990/10/31)
+101- Windows 3.0A - 1991?
+102- Windows 3.0A-H - 1991?
+103- Windows 3.00(A) (IBM PS/55) - 1991?
+105- Windows 3.1 Build 14 - 1991/01?
+106- Windows 3.1 Build 26 - 1991/04/05
+107- Windows NT 3.1 Build 1.0 (April 1991) - 1991/04/05
+108- Windows 3.1 Build 034f - 1991/06/07
+109- Windows 3.00a MDK Version 96 - 1991/06/16
+110- Windows 3.1 Build 31 - 1991/01?
+111- Windows 3.1 Build 043e - 1991/08/27
+112- Windows NT 3.1 Build 1.0.196.1 - 1991/09/17
+113- Windows 3.0a MME - 1991/10/01
+114- Windows NT 3.1 Build 1.0 (October 1991) - 1991/10/01
+115- Windows 3.0 with Multimedia Extensions 1.0 - 1991/10/20
+116- Windows 3.1 Build 057 - 1991/11/17
+117- Windows 3.02 (PC55) - 1991/11/22
+118- Windows 3.1 Build 60 - 1991/12/04
+119- Windows 3.1 Build 061d - 1991/12/17
+120- Windows NT 3.1 Build 1.0.239.1 - 1991/12/21
+121- Windows 3.1 Build 68 - 1992/01/21
+122- Windows 3.1 Build 71 - 1992/01/30
+123- Windows 3.1 Build 101 - 1992/02/06
+124- Windows 3.1 Build 103 (1992-03-02) - 1992/03/02
+125- Hangul Windows 3.01 - 1992/03/09
+126- Windows 3.1 Build 103 (1992-03-10) - 1992/03/10
+127- Windows 3.1 Build 103 (1992-03-11) - 1992/03/11
+128- Microsoft Windows for Pen Computing 1.0 - 1992/03/16
+129- Windows 3.11 Beta 1 - 1992/04/02 A.K.A. Microsoft Windows for Workgroups 3.1
+130- Windows 3.1 RTM - 1992/04/06
+131- Windows for pen computing 1.0a - 1992/04/24
+132- Windows 3.1 Build 018 - 1992/06/18
+133- Windows 3.1 Build 019 - 1992/06/18
+134- Windows NT 3.1 Build 297.1 - 1992/06/28
+135- Windows for workgroups 3.1 Build 014e - 1992/07/01
+136- Windows codename Chicago Build 07200022 - 1992/07/20
+137- Windows for workgroups 3.1 Build 024 - 1992/07/27
+138- Windows for workgroups 3.1 Build 027 - 1992/08/14
+139- Windows NT 3.1 Build 311.1 - 1992/09/04
+140- Windows for workgroups 3.1 Build 102 - 1992/10/01
+141- Windows NT 3.1 Build 340.1 - 1992/10/12
+142- Windows NT 3.1 Build 347.1 - 1992/11/19
+143- Windows Cougar Build 33 - 1993??
+144- Windows Version 3.20 (Cougar) - 1993??
+145- Windows 3.1 Build 141 - 1993/01/05
+146- Windows 3.0B - 1993/01/28
+147- Windows for workgroups 3.11 - 1993/02/07
+148- Windows NT 3.1 Build 404.1 - 1993/03/06
+149- Windows NT 3.1 Build 438.1 - 1993/04/22
+150- Windows for workgroups 3.11 Build 048 - 1993/05/07
+151- Windows NT 3.1 Build 475.1 - 1993/06/09
+152- Windows NT 3.1 Build 511.1 - 1993/07/24
+153- Windows 3.1 Build 153 - 1993/07/26
+154- Windows NT 3.1 Advanced Server - 1993/07/27 ••
+155- Windows codename Chicago Build 58s - 1993/08/09
 
 Fonts: BetaWiki, BetaArchive, ChatGPT and The Collection Book
 References: 
 https://www.thecollectionbook.info/windows/all
 https://www.betaarchive.com/forum/viewtopic.php?t=38711
-chrome://newtab
+https://www.google.com/search?q=windows+2.0+release+date&sca_esv=4a27859b0637b078&rlz=1C1PRFC_enBR1134BR1134&sxsrf=AE3TifMW5ieDNP8cD1QqERPndPsaPGgx9A%3A1756988301399&ei=jYO5aLeJGNS_5OUPrdvsyQ8&oq=windows+2.0+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHdpbmRvd3MgMi4wICoCCAAyDBAjGIAEGBMYJxiKBTIEECMYJzIKEAAYgAQYFBiHAjIKEAAYgAQYFBiHAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCBAAGIAEGMsBMggQABiABBjLAUjQF1DPC1jKEHABeAGQAQCYAeoDoAGEB6oBCTAuMS4xLjAuMbgBAcgBAPgBAZgCBKACjwjCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHCTEuMS4xLjAuMaAHmx2yBwkwLjEuMS4wLjG4B-8HwgcFNC0zLjHIB4AB&sclient=gws-wiz-serp
 https://betawiki.net/index.php?title=Category:Unleaked_builds&pagefrom=Microsoft+Plus%21+95+build+22#mw-pages
 https://chatgpt.com/?temporary-chat=true
-https://betawiki.net/wiki/Category:Builds_of_Windows_3.0
-
-- obs: even though MS-DOS isn't windows, i put it bc it was the base of windows.
+obs: even though MS-DOS isn't windows, i put it bc it was the base of windows.
