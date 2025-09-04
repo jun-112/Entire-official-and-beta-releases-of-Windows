@@ -170,4 +170,5 @@ https://www.betaarchive.com/forum/viewtopic.php?t=38711
 https://www.google.com/search?q=windows+2.0+release+date&sca_esv=4a27859b0637b078&rlz=1C1PRFC_enBR1134BR1134&sxsrf=AE3TifMW5ieDNP8cD1QqERPndPsaPGgx9A%3A1756988301399&ei=jYO5aLeJGNS_5OUPrdvsyQ8&oq=windows+2.0+&gs_lp=Egxnd3Mtd2l6LXNlcnAiDHdpbmRvd3MgMi4wICoCCAAyDBAjGIAEGBMYJxiKBTIEECMYJzIKEAAYgAQYFBiHAjIKEAAYgAQYFBiHAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyCBAAGIAEGMsBMggQABiABBjLAUjQF1DPC1jKEHABeAGQAQCYAeoDoAGEB6oBCTAuMS4xLjAuMbgBAcgBAPgBAZgCBKACjwjCAgcQIxiwAxgnwgIKEAAYsAMY1gQYR5gDAIgGAZAGCpIHCTEuMS4xLjAuMaAHmx2yBwkwLjEuMS4wLjG4B-8HwgcFNC0zLjHIB4AB&sclient=gws-wiz-serp
 https://betawiki.net/index.php?title=Category:Unleaked_builds&pagefrom=Microsoft+Plus%21+95+build+22#mw-pages
 https://chatgpt.com/?temporary-chat=true
-obs: even though MS-DOS isn't windows, i put it bc it was the base of windows.
+obs: even though MS-DOS isn't windows, i put it because it was the base of windows.
+
