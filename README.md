@@ -2,3 +2,4 @@
 - It's still in progress, obviously, I can't do everything at once lol. this will take weeks or even months because there are thousand and thousands of different versions of windows
 - Updated everyday at 7:30 PM EDT or sometimes 4:20 PM EDT
 - Tell me about any mistake, and i allow contribution to (sorry for typos my english's not good)
+Contributors: bruhdxdx
