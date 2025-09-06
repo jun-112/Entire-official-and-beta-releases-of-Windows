@@ -12,7 +12,7 @@ format: year/month/day
 2- MS-DOS 1.1 - may 1982
 3- MS-DOS 1.26 - 1982?
 4- MS-DOS 1.25 - august 1982
-5- Microsoft Interface Manager Demonstration 0.01 - 1983/09/12 A.K.A. Windows 1.0 BYTE demo
+5- Microsoft Window só Manager Demonstration 0.01 - 1983/09/12 A.K.A. Windows 1.0 BYTE demo
 6- Interface Manager 1983-11-01 build - 1983/11/01
 7- Interface Manager 1983-11-10 annoucement build - 1983/11/10
 8- Interface Manager InfoWorld 1983-11-21 build - 1983/11/14
@@ -76,6 +76,7 @@ format: year/month/day
 66- Windows 2.01 for 386 - 1987/09/08
 67- Windows 2.0 Beta 3- 1987/09/14
 68- Windows 2.0 Beta 4- 1987/10/05
+69- Windows 2.02 - 1987/10/31
 69- Windows 2.03 for 286 - 1987/11/16
 70- Windows 2.03 for 386 - 1987/11/16
 71- Windows 2.0 RTM - 1987/12/09
@@ -114,7 +115,7 @@ format: year/month/day
 104- Windows 3.1 Build 14 - 1991/01?
 105- Windows codename Razzle April 1991 build - 1991/04/04
 106- Windows 3.1 Build 26 - 1991/04/05
-107- Windows NT 3.1 Build 1.0 (April 1991) - 1991/04/05
+107- Windows codename Razzle Build 1.0 (April 1991) - 1991/04/05
 108- Windows 3.1 Build 034f - 1991/06/07
 109- Windows 3.00a MDK Version 96 - 1991/06/16
 110- Windows 3.1 Build 31 - 1991/07?
@@ -126,7 +127,7 @@ format: year/month/day
 116- Windows 3.1 Build 043e - 1991/08/27
 117- Windows 3.1 Build 46 - 1991/09?
 118- Windows 3.1 Build 47 - 1991/09?
-119- Windows 3.1 Build 48- 1991?
+119- Windows 3.1 Build 48- september 1991
 120- Windows 3.1 Build 50 - 1991/09?
 121- Windows NT 3.1 Build 1.0.196.1 - 1991/09/17
 122- Windows 3.0a MME - 1991/10/01
@@ -135,9 +136,12 @@ format: year/month/day
 125- Windows 3.1 Build 55 - 1991/11?
 126- Windows 3.1 Build 57 - 1991/11/17
 127- Windows 3.02 (PC55) - 1991/11/22
-128- Windows 3.1 Build 60 - 1991/12/04
-129- Windows 3.1 Build 061d - 1991/12/17
-130- Windows NT 3.1 Build 1.0.239.1 - 1991/12/21
+128- Windows 3.1 Build 58 - 1991/11/26
+129- Windows 3.1 Build 60 - 1991/12/04
+130- Windows 3.1 Build 61 - 1991/12?
+131- Windows 3.1 Build 061b - 1991/12?
+132- Windows 3.1 Build 061d - 1991/12/17
+133- Windows codename Razzle Build 1.0.239.1 - 1991/12/21
 131- Windows 3.1 Build 68 - 1992/01/21
 132- Windows 3.1 Build 71 - 1992/01/30
 133- Windows 3.1 Build 101 - 1992/02/06
@@ -146,7 +150,7 @@ format: year/month/day
 136- Windows 3.1 Build 103 (1992-03-10) - 1992/03/10
 137- Windows 3.1 Build 103 (1992-03-11) - 1992/03/11
 138- Microsoft Windows for Pen Computing 1.0 - 1992/03/16
-139- Windows 3.11 Beta 1 - 1992/04/02 A.K.A. Microsoft Windows for Workgroups 3.1
+139- Windows codename Sparta Beta 1 - 1992/04/02
 140- Windows 3.1 RTM - 1992/04/06
 141- Windows for pen computing 1.0a - 1992/04/24
 142- Windows 3.1 Build 018 - 1992/06/18
@@ -173,6 +177,20 @@ format: year/month/day
 163- Windows 3.1 Build 153 - 1993/07/26
 164- Windows NT 3.1 Advanced Server - 1993/07/27 ••
 165- Windows codename Chicago Build 58s - 1993/08/09
+
+-- Codenames --
+Razzle -> NT 3.1
+Sparta -> Wfor Workgroups 3.1
+Chicago -> 95
+Memphis -> 98
+Neptune -> 2000
+Whistler -> XP
+Longhorn -> Vista
+Chidori -> 8
+Blue -> 8.1
+Threshold -> 10
+Sun valley -> 11
+---------------
 
 Fonts: BetaWiki, BetaArchive, and The Collection Book
 References: 
